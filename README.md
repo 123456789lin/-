@@ -18,7 +18,7 @@
 
 6.“random_forest.py”：用决策树将左右眼结果合并，得到最终的运行结果。
 
-7.“indicator_calculation”:用于指标的计算，计算每类标签的kappa系数、F1分数、AUC面积。并展示混淆矩阵接这三个指标分数。
+7.“indicator_calculation”:用于指标的计算，计算每类标签的kappa系数、F1分数、AUC面积。并展示混淆矩阵及这三个指标分数。
 
 8.“requirements.txt”：安装的库
 
