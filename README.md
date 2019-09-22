@@ -22,5 +22,4 @@
 
 8.“requirements.txt”：安装的库
 
-模型收敛速度很慢，左眼大概训练epoch:250,右眼epoch:300有最优的效果
 
